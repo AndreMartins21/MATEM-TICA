@@ -62,4 +62,7 @@ class Progressao:
         else:
             print("Esses números não formam uma sequência de PA ou PG!")
 
-P1 = Progressao(1.5, 3, 4.5)
+
+if __name__ == "__main__":
+    P1 = Progressao(1.5, 3, 4.5)
+
