@@ -1,3 +1,3 @@
-# MATEMÁTICA
+# Math & Statistic
 
-<h3> Repositório com o fito de compartilhar meus códigos com temática voltada à matemática</h3>
+<h3> Repository to share my codes with math and statistics topics </h3>
